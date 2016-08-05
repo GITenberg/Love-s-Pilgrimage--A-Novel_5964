@@ -1,0 +1,33 @@
+_repo: Love-s-Pilgrimage--A-Novel_5964
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Sinclair, Upton Beall
+    - Garrison, Frederick
+    - Fitch, Clarke
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: To Corydon, on the other hand, a name was a vital thing; a child that
+  was lovely under one name might be unendurable under another. She had been reading
+  Ossian, and the poems of the neo-Celtic enthusiasts; so after much pondering and
+  consultation she announced that Cedric and Eileen were the two names from which
+  they would choose.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Love''s Pilgrimage: A Novel'
+url: http://www.gutenberg.org/ebooks/5964
